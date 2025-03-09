@@ -1,0 +1,105 @@
+{
+    "zeldaGames": [
+        {
+            "title": "The Legend of Zelda",
+            "releaseYear": 1986,
+            "platform": ["NES", "Gamecube"]
+        },
+        {
+            "title": "The Adventure of Link",
+            "releaseYear": 1987,
+            "platform": ["NES", "Gamecube"]
+        },
+        {
+            "title": "A Link to the Past",
+            "releaseYear": 1991,
+            "platform": ["SNES", "Gameboy Advance"]
+        },
+        {
+            "title": "Link's Awakening",
+            "releaseYear": 1993,
+            "platform": ["Gameboy", "Gameboy Color"]
+        },
+        {
+            "title": "Ocarina of Time",
+            "releaseYear": 1998,
+            "platform": ["N64", "Gamecube"]
+        },
+        {
+            "title": "Majora's Mask",
+            "releaseYear": 2000,
+            "platform": ["N64", "Gamecube"]
+        },
+        {
+            "title": "Oracle of Ages",
+            "releaseYear": 2001,
+            "platform": ["Gameboy Color"]
+        },
+        {
+            "title": "Oracle of Seasons",
+            "releaseYear": 2001,
+            "platform": ["Gameboy Color"]
+        },
+        {
+            "title": "The Wind Waker",
+            "releaseYear": 2002,
+            "platform": ["Gamecube", "Wii U"]
+        },
+        {
+            "title": "Four Swords",
+            "releaseYear": 2002,
+            "platform": ["Gameboy Advance"]
+        },
+        {
+            "title": "The Minish Cap",
+            "releaseYear": 2004,
+            "platform": ["Gameboy Advance"]
+        },
+        {
+            "title": "Four Swords Adventures",
+            "releaseYear": 2004,
+            "platform": ["Gamecube"]
+        },
+        {
+            "title": "Twilight Princess",
+            "releaseYear": 2006,
+            "platform": ["Gamecube", "Wii"]
+        },
+        {
+            "title": "Phantom Hourglass",
+            "releaseYear": 2007,
+            "platform": ["DS"]
+        },
+        {
+            "title": "Spirit Tracks",
+            "releaseYear": 2009,
+            "platform": ["DS"]
+        },
+        {
+            "title": "Skyward Sword",
+            "releaseYear": 2011,
+            "platform": ["Wii", "Switch"]
+        },
+        {
+            "title": "A Link Between Worlds",
+            "releaseYear": 2013,
+            "platform": ["3DS"]
+        },
+        {
+            "title": "Tri Force Heroes",
+            "releaseYear": 2015,
+            "platform": ["3DS"]
+        },
+        {
+            "title": "Breath of the Wild",
+            "releaseYear": 2017,
+            "platform": ["Switch", "Wii U"]
+        },
+        {
+            "title": "Tears of the Kingdom",
+            "releaseYear": 2023,
+            "platform": ["Switch"]
+        }
+        
+    ]
+}
