@@ -4,7 +4,7 @@ This is a basic python program to access my zelda games cloud NoSQL database. I 
 
 This program allows you to find data from the zelda games database, insert a new game, delete a game, or modify an already existing game. In order to run the program, you will need to make your own private key since for security reasons, I will not be including one. You can make a key by creating a new realtime database on firebase and import the included JSON file in the repository. You will then need to make a .env file with the following global variables, FIREBASE_CREDENTIALS_PATH which will be the path to your private key, and FIREBASE_DATABASE_URL which is the URL to the database.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/vhvHvr5cQsg)
 
 # Cloud Database
 
